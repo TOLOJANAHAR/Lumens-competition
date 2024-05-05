@@ -1,0 +1,16 @@
+#defa{
+    height: 50px;
+    width: 50px;
+    background: #4800ff;
+    border-radius: 100px;
+}
+.motion{
+    margin-top: 180px;
+    height: 500px;
+    width: 1600px;
+    background: rgba(30, 30, 30, 0.8);
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-right: 50px;
+    padding: 50px;
+}
